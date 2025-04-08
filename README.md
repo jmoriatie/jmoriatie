@@ -1,9 +1,11 @@
 <div align="center">
 
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=70&section=header&text=BackEnd%20Developer%20Jeong-min&fontColor=E8E8E8&fontSize=35" />
-  
+<!--
 ### :closed_book:Studying:closed_book:
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/> 
+-->
 
 ### :sun_with_face:BACK-END:sun_with_face:
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> 
