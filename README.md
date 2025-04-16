@@ -25,7 +25,8 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black"/>
 
   <br>
-  
+
+<!--
 ### :ear_of_rice:TOOL:ear_of_rice:
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>  <br>
@@ -37,7 +38,7 @@
 
 <br>
 
-<!-- #### :clipboard:BOLG LINK:clipboard:
+ #### :clipboard:BOLG LINK:clipboard:
 <a href="https://jmoriatie.tistory.com/">
 <img height="35" width="100" src="https://img.shields.io/badge/Tistory-00A1E9?style=flat-square&logo=Tistory&logoColor=white"/>
 
